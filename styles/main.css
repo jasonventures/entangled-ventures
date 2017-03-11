@@ -320,6 +320,9 @@ body {
 .block {
     padding: 40px 0
 }
+#team .member-about .col {
+	margin-bottom: 18px;
+}
 @media (min-width: 375px) {
     .container {
         max-width: 450px;
@@ -2023,9 +2026,7 @@ label>.label-body {
         margin-right: 2.45%
     }
 }
-#team .member-about .col {
-	margin-bottom: 18px;
-}
+
 @media (min-width: 1000px) {
     #team .member-about .col {
         display: inline-block;
