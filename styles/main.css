@@ -320,9 +320,6 @@ body {
 .block {
     padding: 40px 0
 }
-#team .member-about .col {
-	margin-bottom: 18px;
-}
 @media (min-width: 375px) {
     .container {
         max-width: 450px;
@@ -1930,9 +1927,6 @@ label>.label-body {
 #team .member-about p {
     margin-top: 0
 }
-#team .member-about p:last-child {
-    margin-bottom: 0
-}
 .arrow-symbol {
     position: relative;
     top: -1px;
@@ -2032,7 +2026,6 @@ label>.label-body {
         display: inline-block;
         vertical-align: top;
         width: 47%;
-        margin-bottom: 18px;
     }
     #team .member-about .col:nth-child(1) {
         margin-right: 5%
